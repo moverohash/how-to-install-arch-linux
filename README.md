@@ -1,7 +1,6 @@
 
 ## Notes
-This guide assumes that you have already downloaded the ISO and created a bootable USB stick or set up a virtual machine using VMDK or QEMU.
-
+This guide assumes that you have already downloaded the ISO and created a bootable USB stick or set up a virtual machine using VMDK or QEMU.And you just want a single partition with root/home(user)
 ## 1. Connect to the Internet
 
 - Use **iwctl** for WiFi; Ethernet should be automatically detected:
